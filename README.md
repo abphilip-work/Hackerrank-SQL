@@ -1,1 +1,1 @@
-# Hackerrank: SQL 
+# Hackerrank: Structured Query Language
